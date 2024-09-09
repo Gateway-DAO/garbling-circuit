@@ -1,5 +1,5 @@
 [package]
-name = "fancy-garbling"
+name = "garbling-circuit"
 readme = "README.md"
 description = "A library for boolean and arithmetic garbling"
 categories = ["cryptography"]
